@@ -6,10 +6,10 @@
     <li>🎓 Honors in Computer Science & Engineering from <a>UPB</a></li>
     <li>🌱 I’m currently learning <strong>DevOps</strong></li>
     <li>👯 I’m looking to collaborate on <strong>Open Source Projects</strong></li>
-    <li>🤝 I’m looking for help with <a>TEA-feature</a></a></li>
+    <li>🤝 I’m looking for help with <a>Tibco development</a></a></li>
     <li>💬 Let's talk about <strong>Java, Tibco, React, Angular, Jenkins Development</strong></li>
     <li>📫 How to reach me: bogdan.fain@eviden.com</li>
-    <li>⚡ Fun fact: Dive to the kite</li>
+    <li>⚡ Fun fact: Dive with the kite</li>
   </ul>
 </p>
 <br>
